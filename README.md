@@ -53,12 +53,6 @@ DAX
 
 Applicants with good credit history have a significantly higher loan approval rate, making credit history a critical factor in loan decisions.
 
-📂 Files
-
-Bank Loan Analysis Dashboard.pbix
-
-train.csv
-
 👤 Author
 
 Shravani Maharaju
